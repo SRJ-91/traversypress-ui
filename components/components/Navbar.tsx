@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import logo from "../../img/logo.png"
-import { Avatar, AvatarImage, AvatarFallback } from '@/components/components/ui/avatar'
+import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar'
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -9,7 +9,7 @@ import {
     DropdownMenuLabel,
     DropdownMenuSeparator,
     DropdownMenuTrigger,
-} from "@/components/components/ui/dropdown-menu"
+} from "@/components/ui/dropdown-menu"
 
 
 
